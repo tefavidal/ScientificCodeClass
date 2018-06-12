@@ -22,5 +22,6 @@ def print_palmtrees(num):
 
 if __name__ == "__main__":
     print('No more trees, only animals')
+    print('Adding new undescriptive text')
     print_monkeys([0,1,2,3,4,5])
     print_rabbit_range(15)
