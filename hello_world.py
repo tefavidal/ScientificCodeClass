@@ -25,3 +25,4 @@ if __name__ == "__main__":
     print('Adding new undescriptive text')
     print_monkeys([0,1,2,3,4,5])
     print_rabbit_range(15)
+    print_palmtrees(20)
